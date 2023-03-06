@@ -1,4 +1,11 @@
 
+# SSH stuff. still WIP.
+#exec ssh-agent bash
+ssh-add
+
+# Go to the workspace I use on the servers
+alias ws='cd /csiB/dev/projects/isaac'
+
 alias maek='make'
 alias mkae='make'
 alias meka='make'
